@@ -1,0 +1,6 @@
+com\rutu\eci\dao\Dao.class
+com\rutu\eci\controller\Controller.class
+com\rutu\eci\entity\Candidate.class
+com\rutu\eci\client\ECI_Client.class
+com\rutu\eci\utility\Utility.class
+com\rutu\eci\service\Service.class
